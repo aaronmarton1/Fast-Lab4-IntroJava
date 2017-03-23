@@ -3,6 +3,9 @@ import java.text.DecimalFormat;
 
 /**
  * Created by aaronmarton on 23/03/2017.
+ *
+ * you are given a temperature in F; covert it in C; C= 5/9 *(F-32)
+ *
  */
 public class tema_1 {
     public static void main(String[] args) {
