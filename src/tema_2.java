@@ -5,6 +5,7 @@ import java.text.DecimalFormat;
  *
  * you are given 2 numbers; calculate their average
  *
+ *
  */
 public class tema_2 {
     public static void main(String[] args) {
