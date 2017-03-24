@@ -1,5 +1,3 @@
-import java.text.DecimalFormat;
-
 /**
  * Created by aaronmarton on 23/03/2017.
  *
@@ -12,6 +10,7 @@ public class tema_4 {
         int max = list_of_numbers[0];
 
         for (int i : list_of_numbers) {
+            list_of_numbers.
             if (i > max) {
                 max = i;
             }
